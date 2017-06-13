@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (8.2.2)
+    excon (0.48.0)
+    flickraw (0.9.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  excon
+  flickraw
+
+BUNDLED WITH
+   1.11.2
